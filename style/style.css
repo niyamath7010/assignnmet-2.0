@@ -1,0 +1,104 @@
+.first{
+    width: 40%;
+    height: 400px;
+    border-radius: 10px;
+}
+
+.second-img{
+    
+    width: 500px;
+    height: 200px;
+    border-radius: 10px;
+    
+}
+
+.second{
+     display: flex;
+    /* flex-direction: row;  */
+    max-width: 600px;
+    position: relative;
+    left: 40%;
+    bottom: 400px;
+    
+
+}
+
+.third-img{
+    width: 500px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.third{
+    display: flex;
+    max-width: 600px;
+    position: relative;
+    left: 40%;
+    bottom: 400px;
+    right: 20px;
+}
+
+
+.host{
+    position: relative;
+    bottom: 400px;
+    max-width: 40%;
+}
+
+.main{
+    padding-left: 150px;
+    max-width: 80%;
+    margin-top: 10px;
+   
+}
+
+.host-img{
+    border-radius: 50%;
+    width: 90px;
+    height: 50px;
+    position: relative;
+    left: 350px;
+    bottom: 70px;
+}
+
+.sticky{
+   
+    position: sticky;
+    width: 480px;
+    left: 700px;
+    bottom: 90px;
+    
+    box-shadow: 0px 2px 2px rgb(221, 121, 121);
+    
+}
+
+.para{
+    max-width: 1000%;
+}
+
+.sleep-img{
+    width: 400px;
+    padding-left: 40px;
+    max-width: 40%;
+}
+
+.prize{
+    display: flex;
+    flex-direction: row;
+}
+
+.rating{
+    padding-left: 60px;
+    padding-top: 20px;
+}
+
+.text{
+    max-width: 40%;
+    position: relative;
+    bottom: 500px;
+}
+
+.sleep{
+    position: relative;
+    bottom: 500px;
+}
